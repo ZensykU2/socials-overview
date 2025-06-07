@@ -1,0 +1,27 @@
+[
+    {
+        "label": "GitHub",
+        "url": "https://github.com/ZensykU2",
+        "color": "gray"
+    },
+    {
+        "label": "Twitter",
+        "url": "https://x.com/zensyk",
+        "color": "blue"
+    },
+    {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/zensyk/",
+        "color": "pink"
+    },
+    {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@zensyk5668",
+        "color": "red"
+    },
+    {
+        "label": "Twitch",
+        "url": "https://www.twitch.tv/zensyk",
+        "color": "purple"
+    }
+]
